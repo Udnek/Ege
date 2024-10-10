@@ -1,0 +1,4 @@
+300/20 = 15 bytes/user
+12 >= 2^4 => 4 bits/symbol
+4*15 = 60 bits/passowrd => 8 bytes/password
+15-8 = 7 bytes/user extra info

@@ -1,0 +1,4 @@
+2^3 = 8 >= 6
+=> 8 bit per symbol
+8*23 = 184 bit per password
+184*50 = 9,200 bit = 1,150 bytes
