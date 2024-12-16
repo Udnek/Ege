@@ -1,5 +1,16 @@
-def main():
-    pass
+def first():
+    from itertools import product
+    w = "A, B, C, D".split(", ")
+    i = 0
+    for f in ["X", "Y", "Z"]:
+        for p in product(w, repeat=3):
+            i += 1
+    print(i)
 
-if __name__ == '__main__':
-    main()
+
+def second():
+    print(3* (4**3))
+
+
+first()
+second()
